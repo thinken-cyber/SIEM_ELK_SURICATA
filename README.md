@@ -7,5 +7,4 @@ SIEM_ELK_SURICATA/
 ├── reference.config # Tham chiếu link
 ├── threshold.config # Giới hạn tần suất cảnh báo
 
-![Image1](Screenshot%202025-07-04%20101335.png)
-![Image2](Screenshot%202025-07-04%20142942.png)
+
