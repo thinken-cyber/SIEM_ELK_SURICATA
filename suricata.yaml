@@ -58,7 +58,7 @@ outputs:
         - tls
         - flow
         - anomaly
-        - icmp
+
 
   - stats:
       enabled: yes
